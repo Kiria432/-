@@ -1,0 +1,14 @@
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\bin\Debug\net8.0\SupportChainPattern.exe
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\bin\Debug\net8.0\SupportChainPattern.deps.json
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\bin\Debug\net8.0\SupportChainPattern.runtimeconfig.json
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\bin\Debug\net8.0\SupportChainPattern.dll
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\bin\Debug\net8.0\SupportChainPattern.pdb
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\obj\Debug\net8.0\SupportChainPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\obj\Debug\net8.0\SupportChainPattern.AssemblyInfoInputs.cache
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\obj\Debug\net8.0\SupportChainPattern.AssemblyInfo.cs
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\obj\Debug\net8.0\SupportChainPattern.csproj.CoreCompileInputs.cache
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\obj\Debug\net8.0\SupportChainPattern.dll
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\obj\Debug\net8.0\refint\SupportChainPattern.dll
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\obj\Debug\net8.0\SupportChainPattern.pdb
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\obj\Debug\net8.0\SupportChainPattern.genruntimeconfig.cache
+C:\Users\goodi\Documents\Course\Program\SupportChainPattern\obj\Debug\net8.0\ref\SupportChainPattern.dll
