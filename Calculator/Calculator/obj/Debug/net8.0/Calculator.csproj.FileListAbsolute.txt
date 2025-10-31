@@ -1,0 +1,28 @@
+E:\VS\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+E:\VS\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+E:\VS\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+E:\VS\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+E:\VS\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+E:\VS\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+E:\VS\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+E:\VS\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+E:\VS\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+E:\VS\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+E:\VS\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+E:\VS\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+E:\VS\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\goodi\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
